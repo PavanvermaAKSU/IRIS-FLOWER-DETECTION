@@ -1,4 +1,4 @@
-# 🛡️ FACE MASK DETECTION SYSTEM
+# 🛡️ IRIS FLOWER CLASSIFICATION
 
 ## Internship Details
 
@@ -7,7 +7,7 @@
 | **Intern ID**    | CITS2674                   |
 | **Intern Name**  | PAVAN KUMAR VERMA          |
 | **Duration**     | 4 Weeks                    |
-| **Project Name** | FACE MASK DETECTION SYSTEM |
+| **Project Name** |IRIS FLOWER CLASSIFICATIONM |
 
 # 🌸 Iris Flower Classification Platform
 
